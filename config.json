@@ -4,8 +4,8 @@
       "redirect_url": ""
    },
    "wordpress": {
-      "site_url": "https://solodroidnews.wordpress.com/",
-      "rest_api_provider": "jetpack",
+      "site_url": "https://www.storypick.com/",
+      "rest_api_provider": "default",
       "posts_per_page": 10,
       "categories_per_page": 24,
       "max_related_posts": 5
