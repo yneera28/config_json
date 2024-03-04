@@ -34,7 +34,7 @@
       "enable_https_trust_manager": true
    },
    "custom_category": {
-      "status": false,
+      "status": true,
       "categories": [
          {
             "id": 11,
